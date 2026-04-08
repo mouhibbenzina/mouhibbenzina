@@ -78,6 +78,6 @@
 
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
-![Profile views](https://komarev.com/ghpvc/?username=mouhibbenzina&color=58A6FF&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=mouhib_benzina&color=58A6FF&style=flat)
 
 </div>
