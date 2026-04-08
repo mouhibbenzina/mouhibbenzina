@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Mouhibb+Benzina+%F0%9F%91%8B;Full-Stack+Developer;Computer+Science+Student;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Mouhib+Benzina+%F0%9F%91%8B;Full-Stack+Developer;Computer+Science+Student;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 - 🔭 Building full-stack web applications with a focus on clean architecture
 - 💬 Ask me about **React**, **Node.js**, **Python**, or anything full-stack
 - 📍 Tunisia 🇹🇳
-- 📫 Reach me at: [LinkedIn](mouhib-benzina-136a19401) · [Email](mailto:mouhibbenzina13@email.com)
+- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/mouhib-benzina-136a19401) · [Email](mailto:mouhibbenzina13@email.com)
 
 ---
 
@@ -50,7 +50,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mouhibbenzina&layout=compact&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mouhibbenzina&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=mouhib_benzina&theme=github-dark&hide_border=true)
 
 </div>
 
@@ -78,6 +78,6 @@
 
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
-![Profile views](https://komarev.com/ghpvc/?username=mouhib_benzina&color=58A6FF&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=mouhibbenzina&color=58A6FF&style=flat)
 
 </div>
