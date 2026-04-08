@@ -14,7 +14,7 @@
 - 🔭 Building full-stack web applications with a focus on clean architecture
 - 💬 Ask me about **React**, **Node.js**, **Python**, or anything full-stack
 - 📍 Tunisia 🇹🇳
-- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/mouhib-benzina-136a19401) · [Email](mailto:mouhibbenzina13@email.com)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mouhib-benzina-136a19401) · [Email](mailto:mouhibbenzina13@gmail.com)
 
 ---
 
@@ -46,11 +46,11 @@
 
 <div align="center">
 
-![Mouhibb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouhibbenzina&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Mouhib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouhibbenzina&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mouhibbenzina&layout=compact&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mouhib_benzina&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=mouhibbenzina&theme=github-dark&hide_border=true)
 
 </div>
 
