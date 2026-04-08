@@ -14,7 +14,7 @@
 - 🔭 Building full-stack web applications with a focus on clean architecture
 - 💬 Ask me about **React**, **Node.js**, **Python**, or anything full-stack
 - 📍 Tunisia 🇹🇳
-- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/mouhib-benzina-136a19401) · [Email](mailto:mouhibbenzina13@email.com)
+- 📫 Reach me at: [LinkedIn](mouhib-benzina-136a19401) · [Email](mailto:mouhibbenzina13@email.com)
 
 ---
 
