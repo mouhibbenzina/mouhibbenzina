@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science student — heading into my **PFE (Final Year Project)** next year
+- 🎓 Computer Science student at **ISET de Zaghouan** 🇹🇳 — heading into my **PFE (Final Year Project)** next year
 - 🌱 Currently deepening my skills in **system design**, **AI integration**, and **cloud deployment**
 - 🔭 Building full-stack web applications with a focus on clean architecture
 - 🇹🇳 Passionate about building tools that solve **real problems in Tunisia**
@@ -61,7 +61,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🏟️ **Club Africain Fan App**](https://github.com/mouhibbenzina/club-africain-app) | Official CATV fan mobile application | React Native (Expo) · TypeScript |
-| [🧠 **ZribaIQ**](https://github.com/mouhibbenzina/ZribaIQ) | AI-powered quiz app that generates fresh questions with Claude AI | Symfony 6.4 · PHP · Claude AI |
+| [🧠 **NexaQuiz (ZribaIQ)**](https://github.com/mouhibbenzina/ZribaIQ) — [🔴 Live demo](https://zribaiq.onrender.com) | AI-powered quiz app that generates fresh questions with Claude AI | Symfony 6.4 · PHP · Claude AI |
 | [🔍 **CodeReview**](https://github.com/mouhibbenzina/codereview-frontend) — [backend](https://github.com/mouhibbenzina/codereview-backend) | Full-stack code review platform | Node.js · React |
 | [📖 **Islam Guide**](https://github.com/mouhibbenzina/islam-guide) — [frontend](https://github.com/mouhibbenzina/islam-guide-frontend) | Islamic reference web application | React · JavaScript |
 
