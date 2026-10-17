@@ -15,7 +15,7 @@
 - 🇹🇳 Passionate about building tools that solve **real problems in Tunisia**
 - 💬 Ask me about **React**, **Node.js**, **Python**, or anything full-stack
 - 📍 Tunisia 🇹🇳
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mouhib-benzina-5b8700402) · [Email](mailto:mouhibbenzina13@gmail.com)
+- 🌐 Portfolio: [mouhibbenzina.github.io](https://mouhibbenzina.github.io) · [CV (printable)](https://mouhibbenzina.github.io/cv.html) · 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mouhib-benzina-5b8700402) · [Email](mailto:mouhibbenzina13@gmail.com)
 
 ---
 
